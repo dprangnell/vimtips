@@ -1,7 +1,7 @@
-## Delete lines anywhere in the file and optionally put them in register x
+## How to delete specific line numbers
 
 ```
-:[range]delete[x]
+:[range]delete
 ```
 
 eg:
